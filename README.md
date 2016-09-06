@@ -1,2 +1,0 @@
-# rschwarz
-personal website
