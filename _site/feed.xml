@@ -4,10 +4,10 @@
     <title>Richard Schwarzl</title>
     <description>This is the personal website of Richard Schwarzl.
 </description>
-    <link>https://rtotheb2000.github.io/</link>
-    <atom:link href="https://rtotheb2000.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Sep 2016 18:35:09 +0200</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 18:35:09 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Sep 2016 18:54:07 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 18:54:07 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -32,8 +32,8 @@
 
 </description>
         <pubDate>Tue, 06 Sep 2016 17:49:57 +0200</pubDate>
-        <link>https://rtotheb2000.github.io/jekyll/update/2016/09/06/view-csv-cli.html</link>
-        <guid isPermaLink="true">https://rtotheb2000.github.io/jekyll/update/2016/09/06/view-csv-cli.html</guid>
+        <link>/jekyll/update/2016/09/06/view-csv-cli.html</link>
+        <guid isPermaLink="true">/jekyll/update/2016/09/06/view-csv-cli.html</guid>
         
         
         <category>jekyll</category>
