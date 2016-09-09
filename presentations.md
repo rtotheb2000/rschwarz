@@ -11,8 +11,8 @@ permalink: /pres/
 |2016-04-08|*"Coarse-grained modelling of von Willebrand factor"*, National SHENC Meeting, Augsburg, Germany|
 |2016-02-26|*"Coarse-grained modelling of von Willebrand factor"*, Internal winterschool AG Netz, Cracow, Poland|
 |**2015**||
-|2015-05-20|Journal club presentation: *"Stochastic Simulation Algorithm"*. Articles: Gillespie, *"A rigorous derivation of the chemical master equation"*; Thanh, et al., *"Efficient rejection-based simulation of biochemical reactions with stochastic noise and delays"*; Thanh, et al., *"Simulation of biochemical reactions with time-dependent rates by the rejection-based algorithm"*|
-|2015-05-20|Journal club presentation: Dudko, et al., *"Locating the Barrier for Folding of Single Molecules under an External Force"*|
+|2015-05-20|Journal club: *"Stochastic Simulation Algorithm"*. Articles: Gillespie, *"A rigorous derivation of the chemical master equation"*; Thanh, et al., *"Efficient rejection-based simulation of biochemical reactions with stochastic noise and delays"*; Thanh, et al., *"Simulation of biochemical reactions with time-dependent rates by the rejection-based algorithm"*|
+|2015-05-20|Journal club: Dudko, et al., *"Locating the Barrier for Folding of Single Molecules under an External Force"*|
 |2015-02-06|*"von Willebrand factor's role in blood clotting"*, Internal winterschool AG Netz, Wroclaw, Poland|
 
 |date (y-m-d)|Poster Presentation|
