@@ -8,6 +8,7 @@ permalink: /pres/
 |date (y-m-d)|Oral Presentation|
 |:--|---|
 |**2016**|
+|2016-05-26|Journal club: *"General first order reaction network"*, Article: Jahnke, et al., *"Solving the chemical master equation for monomolecular reaction systems analytically"*|
 |2016-04-08|*"Coarse-grained modelling of von Willebrand factor"*, National SHENC Meeting, Augsburg, Germany|
 |2016-02-26|*"Coarse-grained modelling of von Willebrand factor"*, Internal winterschool AG Netz, Cracow, Poland|
 |**2015**||
