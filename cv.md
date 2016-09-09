@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
+Richard Schwarzl (*1987)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+2007 - 2014 Studies in physics at Potsdam University
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+diploma thesis: 'Ageing effects and anomalous diffusion' (original title: 'Alterungseffekte und anomale Diffusion')
+supervisor: Prof. Dr. Ralf Metzler
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+2015 - current date PhD studies at Free University Berlin in the field of molecular dynamics, brownian dynamics and computational physics at the chair of Prof. Dr. Roland Netz
