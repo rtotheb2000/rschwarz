@@ -11,7 +11,7 @@ permalink: /pres/
 |2016-04-08|*"Coarse-grained modelling of von Willebrand factor"*, National SHENC Meeting, Augsburg, Germany|
 |2016-02-26|*"Coarse-grained modelling of von Willebrand factor"*, Internal winterschool AG Netz, Cracow, Poland|
 |**2015**||
-|||
+|2015-02-06|*"von Willebrand factor's role in blood clotting"*, Internal winterschool AG Netz, Wroclaw, Poland|
 
 |date (y-m-d)|Poster Presentation|
 |:--|---|
