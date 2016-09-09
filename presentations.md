@@ -5,14 +5,14 @@ permalink: /pres/
 ---
 
 
-||Oral Presentation|
+|date (yyyy-mm-dd)|Oral Presentation|
 |:--|---|
 |**2016**|
 |2016-04-08|*"Coarse-grained modelling of von Willebrand factor"*, National SHENC Meeting, Augsburg|
 |**2015**||
 |||
 
-||Poster Presentation|
+|date (yyyy-mm-dd)|Poster Presentation|
 |:--|---|
 |**2016**|
 |2016-03-09|*"Tensile Forces in Simple Shear Flow from Simulation"*, |
