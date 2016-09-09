@@ -17,4 +17,4 @@ permalink: /pres/
 |**2016**|
 |||
 |**2015**||
-|2015-09-14|*Models for von Willebrand factor in shear*, 1st international SHENC Symposium, Hamburg|
+|2015-09-14|*"Models for von Willebrand factor in shear"*, 1st international SHENC Symposium, Hamburg|
