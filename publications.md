@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 
 ##2016
+
 |   |
 |:--|
 |Posch, S., Aponte-Santamaría, C., Schwarzl, R., Karner, A., Radtke, M., Gräter, F., … Hinterdorfer, P. (2016). Single molecule force spectroscopy data and BD- and MD simulations on the blood protein von Willebrand factor. Data in Brief. [doi](http://doi.org/10.1016/j.dib.2016.07.031)|
