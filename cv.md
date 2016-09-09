@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: curriculum vitae
 permalink: /cv/
 ---
 Richard Schwarzl (*1987)
