@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 This is a convenient way to view csv data in the command line. I copied this command from Chris Jean's blog, so make sure you check out his original post for more information.
 
-Using a combination of 'cat', 'column' and 'less', CSV data can be rendered into a nice table and quickly navigated. Here is an example:
+Using a combination of `cat`, `column` and `less`, CSV data can be rendered into a nice table and quickly navigated. Here is an example:
 
 {% highlight ruby %}
 cat file.csv | sed -e 's/,,/, ,/g' | column -s, -t | less -#5 -N -S
