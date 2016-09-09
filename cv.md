@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 Richard Schwarzl (*1987)
 
+|   |   |
 |---|---|
 |2007 - 2014|Studies in physics at Potsdam University|
 |   |Diploma thesis: 'Ageing effects and anomalous diffusion' (original title: 'Alterungseffekte und anomale Diffusion')|
