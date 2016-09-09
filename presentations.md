@@ -9,6 +9,7 @@ permalink: /pres/
 |:--|---|
 |**2016**|
 |2016-04-08|*"Coarse-grained modelling of von Willebrand factor"*, National SHENC Meeting, Augsburg|
+|2016-02-26|*"Coarse-grained modelling of von Willebrand factor"*, Internal winterschool AG Netz, Cracow|
 |**2015**||
 |||
 
