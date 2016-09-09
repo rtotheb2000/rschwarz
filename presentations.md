@@ -5,15 +5,14 @@ permalink: /pres/
 ---
 
 
-|Talk|
+|Oral Presentation|
 |:--|
 |**2016**|
-||
-||
+|2016-04-08 *"Coarse-grained modelling of von Willebrand factor", National SHENC Meeting, Augsburg|
 |**2015**|
 ||
 
-|Poster|
+|Poster Presentation|
 |:--|
 |**2016**|
 |   |
