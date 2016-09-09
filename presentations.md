@@ -15,6 +15,6 @@ permalink: /pres/
 |date (y-m-d)|Poster Presentation|
 |:--|---|
 |**2016**|
-|2016-03-09|*"Tensile Forces in Simple Shear Flow from Simulation"*, |
+|2016-03-09|*"Tensile Forces in Simple Shear Flow from Simulation"*, DPG conference, Regensburg|
 |**2015**||
 |2015-09-14|*"Models for von Willebrand factor in shear"*, 1st international SHENC Symposium, Hamburg|
