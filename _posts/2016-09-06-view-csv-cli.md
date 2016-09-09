@@ -8,9 +8,9 @@ This is a convenient way to view csv data in the command line. I copied this com
 
 Using a combination of `cat`, `column` and `less`, CSV data can be rendered into a nice table and quickly navigated. Here is an example:
 
-{% highlight ruby %}
+```{r, engine='bash'}
 cat file.csv | sed -e 's/,,/, ,/g' | column -s, -t | less -#5 -N -S
-{% endhighlight %}
+```
 
 SOURCE: [Chris Jean's blog][cjblog]
 
