@@ -4,6 +4,7 @@ title: Curriculum vitae
 permalink: /cv/
 ---
 Richard Schwarzl (*1987)
+
 |   |   |
 |---|---|
 |2007 - 2014|Studies in physics at Potsdam University|
