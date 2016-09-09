@@ -14,4 +14,6 @@ permalink: /pubs/
 
 ##2012
 
-Pingel, P., Schwarzl, R., & Neher, D. (2012). Effect of molecular p-doping on hole density and mobility in poly(3-hexylthiophene). Applied Physics Letters, 100(14), 143303. [doi](http://doi.org/10.1063/1.3701729)
+|   |
+|:--|
+|Pingel, P., Schwarzl, R., & Neher, D. (2012). Effect of molecular p-doping on hole density and mobility in poly(3-hexylthiophene). Applied Physics Letters, 100(14), 143303. [doi](http://doi.org/10.1063/1.3701729)|
